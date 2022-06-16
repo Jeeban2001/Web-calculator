@@ -1,0 +1,8 @@
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.csproj.AssemblyReference.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.AssemblyInfoInputs.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.AssemblyInfo.cs
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.csproj.CoreCompileInputs.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.RazorAssemblyInfo.cache
+C:\Users\jjnay\OneDrive\Documents\Work\day15\calculator in web\calculator in web\obj\Debug\net6.0\calculator in web.RazorAssemblyInfo.cs
